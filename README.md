@@ -1,0 +1,2 @@
+# otogi_frontier_translate
+オトギフロンティア翻译插件
