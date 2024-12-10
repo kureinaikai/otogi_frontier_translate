@@ -1,2 +1,2 @@
 # otogi_frontier_translate
-オトギフロンティア翻译插件
+オトギフロンティア翻译文本存档
